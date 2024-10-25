@@ -1,4 +1,4 @@
-# Distant-Speech-Recogntion-feature-extraction-and-Classification-with-Deep-Learning-Ensemble-Learning
+# Distant-Noisy-Speech-Recogntion-feature-extraction-and-Classification-with-Deep-Learning-Ensemble-Learning
 
 This project implements a Distant Speech Recognition (DSR) system using an ensemble of machine learning and deep learning models to classify speech under varying noise conditions. The system captures, preprocesses, extracts, and selects features from audio samples, then classifies speech data with models optimized for robust speech recognition.
 
